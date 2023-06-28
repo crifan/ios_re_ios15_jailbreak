@@ -13,7 +13,7 @@
   * 方式2
     * 直接从URL安装
       * 步骤：TrollStore->右上角➕加号->Install from URL
-        * ![trollstore_install_from_url](../../../assets/img/trollstore_install_from_url.png)
+        * ![trollstore_install_from_url](../../assets/img/trollstore_install_from_url.png)
     * 说明：自己没试过，应该可行
     * 备注
       * TrollStore在线安装URL地址
@@ -34,7 +34,7 @@
 
 * 通过SideLoadly
   * 图
-    * ![sideloadly_install_xinaa15](../../../assets/img/sideloadly_install_xinaa15.webp)
+    * ![sideloadly_install_xinaa15](../../assets/img/sideloadly_install_xinaa15.webp)
   * 说明：自己没试过。估计可行
 
 ### 通过包管理器从源中安装
@@ -72,11 +72,11 @@
 * 具体逻辑：Mac中和iPhone中都登录（同一账号的微信，或其他微信朋友，总之确保能传输文件）
 * 步骤=效果
   * 从Mac中把ipa传到微信中
-    * ![weixin_send_ipa_file](../../../assets/img/weixin_send_ipa_file.png)
+    * ![weixin_send_ipa_file](../../assets/img/weixin_send_ipa_file.png)
   * 点击进入，点击：用其他应用打开
-    * ![weixin_ipa_file_info](../../../assets/img/weixin_ipa_file_info.png)
+    * ![weixin_ipa_file_info](../../assets/img/weixin_ipa_file_info.png)
   * 点击：`TrollStore`
-    * ![weixin_open_by_trollstore](../../../assets/img/weixin_open_by_trollstore.png)
+    * ![weixin_open_by_trollstore](../../assets/img/weixin_open_by_trollstore.png)
 
 #### 通过AirDrop隔空投送传输tipa文件
 
@@ -84,9 +84,9 @@
 * 主要逻辑：把`.ipa`改为`.tipa`，通过`AirDrop`=`隔空投送`发送到`iPhone`中，在用`TrollStore`打开
 * 具体步骤
   * 把之前的`.ipa`文件改后缀为`.tipa`，然后通过`AirDrop`=`隔空投送`发送到iPhone中
-    * ![mac_airdrop_tipa_iphone](../../../assets/img/mac_airdrop_tipa_iphone.png)
+    * ![mac_airdrop_tipa_iphone](../../assets/img/mac_airdrop_tipa_iphone.png)
   * iPhone中会自动出现弹框：打开方式，选择`TrollStore`
-    * ![airdrop_open_by_trollstore](../../../assets/img/airdrop_open_by_trollstore.jpg)
+    * ![airdrop_open_by_trollstore](../../assets/img/airdrop_open_by_trollstore.jpg)
 * 额外说明：此处有点诡异的是，Mac直接传送ipa到iPhone，但最后始终无法顺利保存到此处的`iCloud`中
   * 也就无法实现网上很多人说的，TrollStore从iCloud中安装ipa的方式了
 
@@ -98,23 +98,23 @@
     * `scp -p XinaA12.1.1.6.2.ipa root@192.168.2.12:/var/root/dev/XinaA12.1.1.6.2.ipa`
   * 再用Filza去打开
     * Filza中的XinaA15的ipa文件
-      * ![filza_xinaa15_ipa](../../../assets/img/filza_xinaa15_ipa.png)
+      * ![filza_xinaa15_ipa](../../assets/img/filza_xinaa15_ipa.png)
     * 长按-》右键菜单
-      * ![filza_ipa_pop_menu](../../../assets/img/filza_ipa_pop_menu.jpg)
+      * ![filza_ipa_pop_menu](../../assets/img/filza_ipa_pop_menu.jpg)
     * 继续安装
       * 方式1：选择`使用App打开` -> 选择`TrollStore`
-        * ![filza_use_app_open_trollstore](../../../assets/img/filza_use_app_open_trollstore.jpg)
+        * ![filza_use_app_open_trollstore](../../assets/img/filza_use_app_open_trollstore.jpg)
       * 方式2：选择`打开方式` -> 选择`TrollStore`
-        * ![filza_open_type_trollstore](../../../assets/img/filza_open_type_trollstore.jpg)
+        * ![filza_open_type_trollstore](../../assets/img/filza_open_type_trollstore.jpg)
 
 ### 用TrollStore打开并自动安装XinaA15的ipa文件
 
 * 前提：已把XinaA15的ipa文件，传输到iPhone中，且已选择用TrollStore去打开
 * 后续步骤：用TrollStore打开XinaA15的ipa并自动安装的过程
   * 会自动出现弹框，点击`Install`
-    * ![trollstore_pop_install](../../../assets/img/trollstore_pop_install.png)
+    * ![trollstore_pop_install](../../assets/img/trollstore_pop_install.png)
   * 显示Installing
   * 安装完毕后，即可在`Apps`tab页面中看到已安装的`XinaA15`
-    * ![trollstore_installed_xinaa15](../../../assets/img/trollstore_installed_xinaa15.png)
+    * ![trollstore_installed_xinaa15](../../assets/img/trollstore_installed_xinaa15.png)
   * 安装后的桌面出现XinaA15的图标了
-    * ![iphone_xinaa15_logo](../../../assets/img/iphone_xinaa15_logo.png)
+    * ![iphone_xinaa15_logo](../../assets/img/iphone_xinaa15_logo.png)

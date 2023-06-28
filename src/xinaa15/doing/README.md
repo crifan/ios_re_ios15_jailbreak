@@ -11,8 +11,8 @@
     * iOS版本：`iOS 15.0`~`iOS 15.1.1`
       * 此处：`15.1`
   * 图
-    * ![iphone11_ios_15_1](../../../assets/img/iphone11_ios_15_1.png)
-    * ![iphone11_main_ui](../../../assets/img/iphone11_main_ui.png)
+    * ![iphone11_ios_15_1](../../assets/img/iphone11_ios_15_1.png)
+    * ![iphone11_main_ui](../../assets/img/iphone11_main_ui.png)
 
 ## `XinaA15`给`iOS 15.1`的`iPhone11`越狱过程
 
