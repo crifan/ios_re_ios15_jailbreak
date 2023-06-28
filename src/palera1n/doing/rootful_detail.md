@@ -8,7 +8,7 @@ palera1n-macos-universal
 
 https://github.com/palera1n/palera1n-c/releases/download/v2.0.0-beta.4/palera1n-macos-universal
 
-![download_palera1n_macos_universal](../../../assets/img/download_palera1n_macos_universal.png)
+![download_palera1n_macos_universal](../../assets/img/download_palera1n_macos_universal.png)
 
 并放到合适的目录中，比如：
 
@@ -88,7 +88,7 @@ crifan@licrifandeMacBook-Pro  ~/dev/dev_tool/reverse_security/iOS/palera1n �
  - [02/27/23 14:13:20] <Info>: Press Enter when ready for DFU mode
 ```
 
-![palera1n_c_f_log](../../../assets/img/palera1n_c_f_log.png)
+![palera1n_c_f_log](../../assets/img/palera1n_c_f_log.png)
 
 此时：iPhone手机中出现：
 
@@ -97,7 +97,7 @@ crifan@licrifandeMacBook-Pro  ~/dev/dev_tool/reverse_security/iOS/palera1n �
 
 的界面：
 
-![iphone_plugin_ui](../../../assets/img/iphone_plugin_ui.jpg)
+![iphone_plugin_ui](../../assets/img/iphone_plugin_ui.jpg)
 
 然后去：
 
@@ -105,7 +105,7 @@ crifan@licrifandeMacBook-Pro  ~/dev/dev_tool/reverse_security/iOS/palera1n �
 
 确认准备好，提示：`get ready`
 
-![palera1n_get_ready](../../../assets/img/palera1n_get_ready.png)
+![palera1n_get_ready](../../assets/img/palera1n_get_ready.png)
 
 再根据提示：
 
@@ -165,11 +165,11 @@ Hold volume down button (3)
 
 然后手机上会输出很多log日志：
 
-![palera1n_jailbreaking_log_start](../../../assets/img/palera1n_jailbreaking_log_start.jpg)
+![palera1n_jailbreaking_log_start](../../assets/img/palera1n_jailbreaking_log_start.jpg)
 
 直到看到最后的log：`rebooting in 5 seconds`
 
-![palera1n_jailbreaking_log_rebooting](../../../assets/img/palera1n_jailbreaking_log_rebooting.jpg)
+![palera1n_jailbreaking_log_rebooting](../../assets/img/palera1n_jailbreaking_log_rebooting.jpg)
 
 iPhone会继续重启，然后进入桌面
 
@@ -246,7 +246,7 @@ Hold volume down button (5)
 
 iPhone中启动输出日志，其中屏幕中间可见 苹果的logo图标（其中嵌入了一个checkra1n的灯塔图标？）：
 
-![palera1n_booting_apple_logo](../../../assets/img/palera1n_booting_apple_logo.jpg)
+![palera1n_booting_apple_logo](../../assets/img/palera1n_booting_apple_logo.jpg)
 
 期间会自动安装：palera1n的app
 
@@ -254,13 +254,13 @@ iPhone中启动输出日志，其中屏幕中间可见 苹果的logo图标（其
 
 `palera1n的app` = `palera1n loader` = paleran的图标
 
-![palera1n_desktop_logo](../../../assets/img/palera1n_desktop_logo.jpg)
+![palera1n_desktop_logo](../../assets/img/palera1n_desktop_logo.jpg)
 
 ## 第四步：进入palera1n的app去Install安装
 
 打开palera1n的app后，进入主页，能看到有个Install按钮
 
-![palera1n_app_install_button](../../../assets/img/palera1n_app_install_button.png)
+![palera1n_app_install_button](../../assets/img/palera1n_app_install_button.png)
 
 此处会显示：
 
@@ -292,7 +292,7 @@ iPhone中启动输出日志，其中屏幕中间可见 苹果的logo图标（其
 
 然后桌面上即可看到：`Sileo`了
 
-![palera1n_installed_sileo](../../../assets/img/palera1n_installed_sileo.png)
+![palera1n_installed_sileo](../../assets/img/palera1n_installed_sileo.png)
 
 至此，palera1n越狱过程就结束了。
 
