@@ -49,4 +49,6 @@
 * 【整理】iOS15越狱相关：越狱插件软件源
 * 【整理】UICache是什么和作用
 * 【整理】新的iOS15越狱工具：Dopamine
+* 【已解决】从XinaA15越狱后的iPhone11中找支持arm64e的libsubstrate.dylib
+* 【已解决】iOSOpenDev的插件dylib注入iPhone11失败：mach-o file but is an incompatible architecture have arm64 need arm64e
 * 
