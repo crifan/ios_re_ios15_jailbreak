@@ -9,4 +9,4 @@
   * 所以：出现了很多，相关的免签名，或者是辅助的sideloe的方式，去安装ipa的工具
   * 常见免签安装ipa的工具
     * `TrollStore`
-    * `Sideloadyly`
+    * `Sideloadly`
