@@ -1,12 +1,6 @@
 # 免签安装ipa文件
 
-有些越狱工具，比如`XinaA15`，推荐安装方式是：`TrollStore`，其属于：免签安装ipa的工具。
+免签安装ipa文件，可以用：
 
-* 免签安装ipa文件
-  * 背景：iOS的app的安装，需要官方有效的签名才可以。
-    * 但是个人版开发者账号，默认只有7天有效期
-      * 过期后，需要重新签名，很是麻烦
-  * 所以：出现了很多，相关的免签名，或者是辅助的sideloe的方式，去安装ipa的工具
-  * 常见免签安装ipa的工具
-    * `TrollStore`
-    * `Sideloadly`
+* [TrollStore](https://book.crifan.org/books/ios_re_manage_app_tweak/website/manage_app/install/trollstore/)
+* [Sideloadly](https://book.crifan.org/books/ios_re_manage_app_tweak/website/manage_app/install/sideloadly.html)
