@@ -11,18 +11,25 @@
     * 英文名：`xina520`
       * 联系方式
         * Twitter：https://twitter.com/xina520
-  * 官网
-    * https://xina.ss03.cn/
-  * 官方文档
-    * [jacksight/xina520_official_jailbreak: This is the official download website for xina520's jailbreak](https://github.com/jacksight/xina520_official_jailbreak)
-      * 该文档的`优化版`（修复错别字等）
-        * [NotDarkn/XinaA15: XinaA15: A semi-untethered jailbreak for iOS 15.0-15.1.1](https://github.com/NotDarkn/XinaA15)
-          * [Compatibility · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
-          * [Warnings · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
-          * [XinaA15/-INSTALL.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md)
-          * [XinaA15/-UPDATE.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
-          * [XinaA15/-REMOVE.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
-          * [Fixes · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
+  * 官方
+    * 官网
+      * 新：https://xina15.com/
+      * 旧：https://xina.ss03.cn/
+    * Discord
+      * https://discord.gg/xina-a15
+  * 文档
+    * 官方
+      * [jacksight/xina520_official_jailbreak: This is the official download website for xina520's jailbreak](https://github.com/jacksight/xina520_official_jailbreak)
+        * 该文档的`优化版`（修复错别字等）
+          * [NotDarkn/XinaA15: XinaA15: A semi-untethered jailbreak for iOS 15.0-15.1.1](https://github.com/NotDarkn/XinaA15)
+            * [Compatibility · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
+            * [Warnings · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
+            * [XinaA15/-INSTALL.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md)
+            * [XinaA15/-UPDATE.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
+            * [XinaA15/-REMOVE.md at main · NotDarkn/XinaA15 · GitHub](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
+            * [Fixes · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
+    * 其他
+      * [XinaA15 - The Apple Wiki](https://theapplewiki.com/wiki/XinaA15)
   * 支持设备
     * 机型：`iPhone`/`iPad`
     * CPU芯片：`A12`~`A15`

@@ -1,10 +1,21 @@
 # XinaA15的历史版本和下载地址
 
+## 下载来源
+
 * XinaA15的下载来源
   * 官网
-    * https://xina.ss03.cn/
+    * 最新
+      * https://xina15.com/
+        * https://ipa.xina15.com/
+        * https://xina15.com/xinaa15-1-1-3-6-released/
+    * 已废弃
+      * https://xina.ss03.cn/
   * Github
     * https://github.com/jacksight/xina520_official_jailbreak/releases/
+    * https://github.com/NotDarkn/XinaA15/releases
+
+## 历史版本和下载地址
+
 * XinaA15的历史版本和下载地址
   * 工具版本 ：1.1.8
     * 发布日期 ：2023年03月13日
