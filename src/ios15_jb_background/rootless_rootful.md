@@ -5,7 +5,7 @@
     * rootfs可写，包括根目录/也可以写
       * palera1n中也叫：`fakefs-rootful`
   * `rootless`越狱 = **无根**越狱
-    * rootfs只读，只有/var可写
+    * rootfs只读，只有`/var`目录可写
 * 详解
   * 之前的`普通越狱`=`成熟越狱`=`有根越狱` vs `无根越狱`=`rootless jailbreak`
     * 之前的`普通越狱`=`成熟越狱`=`有根越狱`：`iOS 15`之前

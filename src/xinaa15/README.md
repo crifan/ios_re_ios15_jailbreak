@@ -17,6 +17,7 @@
       * 旧：https://xina.ss03.cn/
     * Discord
       * https://discord.gg/xina-a15
+        * https://discord.com/invite/xina-a15
   * 文档
     * 官方
       * [jacksight/xina520_official_jailbreak: This is the official download website for xina520's jailbreak](https://github.com/jacksight/xina520_official_jailbreak)
@@ -30,6 +31,7 @@
             * [Fixes · NotDarkn/XinaA15 Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
     * 其他
       * [XinaA15 - The Apple Wiki](https://theapplewiki.com/wiki/XinaA15)
+      * [Installing XinaA15 | iOS Guide](https://docs.palera.in/installing-xinaa15/)
   * 支持设备
     * 机型：`iPhone`/`iPad`
     * CPU芯片：`A12`~`A15`

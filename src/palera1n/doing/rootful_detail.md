@@ -248,7 +248,15 @@ iPhone中启动输出日志，其中屏幕中间可见 苹果的logo图标（其
 
 ![palera1n_booting_apple_logo](../../assets/img/palera1n_booting_apple_logo.jpg)
 
+附带另外一次的，拍照了能看清日志详情的log效果：
+
+![palera1n_booting_logo_detail](../../assets/img/palera1n_booting_logo_detail.jpg)
+
 期间会自动安装：palera1n的app
+
+重新启动iPhone时，能看到`palera1n`的大的logo文字：
+
+![palera1n_boot_show_logo](../../assets/img/palera1n_boot_show_logo.jpg)
 
 进入iPhone桌面后，可以看到：
 

@@ -51,4 +51,14 @@
 * 【整理】新的iOS15越狱工具：Dopamine
 * 【已解决】从XinaA15越狱后的iPhone11中找支持arm64e的libsubstrate.dylib
 * 【已解决】iOSOpenDev的插件dylib注入iPhone11失败：mach-o file but is an incompatible architecture have arm64 need arm64e
-* 
+* 【记录】iOS逆向TextNow：rootful的palera1n的越狱iPhone8p重启后恢复越狱
+* 【记录】iOS越狱：自己给iOS16.7.12的iPhone8p重新弄一遍palera1n的rootful有根越狱
+* 【未解决】iOS逆向：iOS15.0的iPhone8用palera1n恢复越狱报错：panic: p1-fakefs-rootdev is not found
+* 【记录】iOS逆向：TypeC接口的M2能否实现palera1n的rootful越狱
+* 【已解决】TypeC的Mac M2用palera1n的rootful越狱报错：Error Timed out waiting for download mode error code  status_exploit_timeout_error
+* 【已解决】palera1n的rootful越狱失败：能进去PongoOS能启动iPhone进入桌面但rootful越狱没生效
+* 【记录】iOS的palera1n的rootful越狱：用palera1n --force-revert -f清除旧有残留的FakeFS
+* 【记录】iOS的palera1n的rootful越狱：用palera1n -f -c新建FakeFS
+* 【记录】iOS的palera1n的rootful越狱：用不带-c参数的palera1n -f正常启动进入palera1n越狱环境
+* 【无法解决】Mac M2 Max用TypeC转接头再接上USB转Lighting再接iPhone8去测试palera1n越狱是否成功
+* 【无法解决】Mac M2 Max中用TypeC转接头后palera1n越狱iPhone8卡死：About to execute checkra1n
